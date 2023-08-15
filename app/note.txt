@@ -1,1 +1,3 @@
 // deployed site link below:
+
+https://next-blog-imraul.netlify.app/
